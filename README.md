@@ -1,16 +1,46 @@
-## Hi there 👋
+## 👋 Hi, I'm Miguel!
 
-<!--
-**MiguelMelo13/MiguelMelo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me:
+- 💻 **Computer Engineering Student** @ Universidade Lusófona – Currently in my last semester.
+- 🎯 **Vice-President** of the IT Students Association – [**NEDI**](https://nedi.pythonanywhere.com/).
+- 🔐 **Head of the 403's** – CyberSecurity Club linked to NEDI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experience:
+
+#### Summer Internship @ CGI – Summer 2024
+- 🚀 Agile Methodologies, SCRUM
+- 🤖 UI Path
+- 📊 Microsoft Power BI
+
+#### Youth Volleyball Coach for Sport Lisboa Benfica
+- 🏐 In a past life
+
+---
+
+### 📜 Certifications:
+- 🎖 [**IPICS 24**](https://research.pdmfc.com/event/ipics-2024-summer-school-co-organized-by-csp-and-cyballiance/) – Intensive Program on Information and Communication Security
+
+---
+
+### 🛠 Tech Stack
+
+#### 💻 Programming Languages:
+- Java | Kotlin | C | Python | JavaScript
+
+#### ⚙️ Frameworks & Tools:
+- Spring Boot | Django | GitHub | Jira | Bootstrap | Thymeleaf | Azure DevOps
+
+#### 🗄 Databases:
+- SQL | MySQL
+
+---
+
+### 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/miguelmelo127/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/MiguelMelo13)
+📧 **Email:** [miguellopesmelo@gmail.com].
+---
+
+Thanks for stopping by! 🚀
