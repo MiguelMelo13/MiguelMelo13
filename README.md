@@ -40,7 +40,7 @@
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/miguelmelo127/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/MiguelMelo13)
-📧 [**Email:**] (miguellopesmelo@gmail.com).
+📧 [**Email:**](miguellopesmelo@gmail.com).
 ---
 
 Thanks for stopping by! 🚀
