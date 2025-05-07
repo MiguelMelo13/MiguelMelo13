@@ -21,7 +21,7 @@
 
 ### 📜 Certifications:
 - 🎖 [**IPICS 24**](https://research.pdmfc.com/event/ipics-2024-summer-school-co-organized-by-csp-and-cyballiance/) – Intensive Program on Information and Communication Security
-
+- 🎖 [**Introcution to NIS-2 DORA & ISO-27001**](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/14289872) - Workshop at Claranet Portugal
 ---
 
 ### 🛠 Tech Stack
