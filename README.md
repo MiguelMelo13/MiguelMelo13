@@ -1,5 +1,19 @@
 ## 👋 Hi, I'm Miguel!
 
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelMelo13&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMelo13&layout=compact&langs_count=7&theme=dark" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelMelo13&theme=dark" height="180"/>
+
+  
+</div>
+
+
+
+  
+
+
 ### 🎓 About Me:
 - 💻 **Computer Engineering Student** @ Universidade Lusófona – Currently in my last semester.
 - 🎯 **Vice-President** of the IT Students Association – [**NEDI**](https://nedi.pythonanywhere.com/).
@@ -42,5 +56,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/MiguelMelo13)
 [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](miguellopesmelo@gmail.com).
 ---
+
 
 Thanks for stopping by! 🚀
